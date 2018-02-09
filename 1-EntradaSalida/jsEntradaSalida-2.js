@@ -2,8 +2,6 @@
 y luego mostrarlo por 'alert' al presionar el botón  'MOSTRAR'*/
 function Mostar()
 {
-var dato;	(dato);
-dato=prompt("hola");
-alert(dato);
+	
 }
 
